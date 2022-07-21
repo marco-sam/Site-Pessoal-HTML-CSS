@@ -1,0 +1,108 @@
+body {
+    background-image: url("pexels-henry-&-co-1939485.jpg");
+    padding: 15px;
+    max-width: 1200px;
+    margin: auto;
+}
+.perfil{
+    margin-left: 540px;
+    border-radius: 50%;
+    border: 1px solid #000000;
+    height: 150px;
+    width: 150px;
+}
+.mail{
+    border-radius: 50%;
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+}
+.git {
+    border-radius: 50%;
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+}
+.link {
+    border-radius: 50%;
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+}
+#title {
+    color: #494949;
+    font-family: 'Nirmala UI';
+    margin-left: 460px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+.subtitle {
+    color: #494949;
+    font-family: 'Nirmala UI';
+    margin-left: 565px;
+}
+.post_title {
+    font-size: 16px;
+    font-style: italic;
+    color: #494949;
+    font-family: 'Nirmala UI'
+}
+#bio {
+    font-family: 'Segoe UI';
+    text-align: justify;
+}
+footer {
+    border-top: 2px solid #750c0c;
+    width: 1255px;
+    font-family: 'Arial Unicode MS';
+}
+ul {
+    margin-left: 500px;
+    list-style-type: none;
+}
+li a {
+    color: #0026ff;
+}
+.drum {
+    height: 400px;
+    width: 1200px; 
+}
+ul li {
+    display: inline-block;
+    padding-right: 4px;
+}
+.post {
+    height: 580px;
+    width: 1200px;
+    background: #ededed;
+    padding: 10px;
+    border: 5px solid #000000;
+    margin: 10px;
+}
+.post2 {
+    height: 650px;
+    width: 1200px;
+    margin: 10px;
+    border: 5px solid black;
+    padding: 10px;
+    background: #ededed;
+}
+.post3 {
+    height: 650px;
+    width: 1200px;
+    margin: 10px;
+    border: 5px solid black;
+    padding: 10px;
+    background: #ededed;
+}
+.chamado {
+    height: 450px;
+    width: 900px;
+    margin-left: 150px;
+}
+.ti{
+    height: 450px;
+    width: 800px;
+    margin-left: 200px;
+}
